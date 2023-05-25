@@ -1,0 +1,18 @@
+.navbar{
+    background-color:#65524D;
+}
+.nav-link{
+    color: white;
+    cursor: pointer;
+    font-size:20px;
+}
+.navbar-brand{
+    color:aqua;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+.navbar-nav li a{
+    color: white;
+    font-weight: 600;
+}
